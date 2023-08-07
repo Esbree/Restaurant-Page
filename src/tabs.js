@@ -1,5 +1,6 @@
 import createContactPage from './contact';
 import createHomePage from './homepage';
+import createMenuPage from './menu';
 
 function createTabs() {
   const content = document.querySelector('#content');
